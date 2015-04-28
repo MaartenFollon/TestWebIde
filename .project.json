@@ -1,0 +1,16 @@
+{
+  "generation": [
+    {
+      "templateId": "ui5template.fioriMasterDetail",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Mon, 16 Mar 2015 12:45:20 GMT"
+    }
+  ],
+  "translation": {
+    "translationDomain": "",
+    "supportedLanguages": "en,fr,de",
+    "defaultLanguage": "en",
+    "defaultI18NPropertyFile": "i18n.properties",
+    "resourceModelName": "i18n"
+  }
+}

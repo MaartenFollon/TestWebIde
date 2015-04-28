@@ -1,0 +1,16 @@
+{
+  "run": [
+    {
+      "filePath": "/TestWebIde/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 4964678,
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}
